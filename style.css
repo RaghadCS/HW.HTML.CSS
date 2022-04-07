@@ -1,0 +1,46 @@
+/* i assign posstion for image and txt */
+.a .im{ display: inline-block;
+    vertical-align: top;
+    right: 90;
+    top: 120;
+    
+
+}
+.a .tx{
+
+    display: inline-block;
+    vertical-align: right;
+    height="150";
+     width="150"
+
+}
+
+table{  border: double;
+width: 100%;
+table-layout : fixed;
+}
+.t1{
+    text-align: center;"
+}
+
+
+
+
+.fo{
+    text-align: center;
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+
+}
+.button {
+    background-color:red
+   
+  }
